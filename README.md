@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   - Calculus 3/4
   - Linear Algebra 2/2
   - Logic 1/1
-- Some of my repos:
+- Some of my repos: (can be private)
   - [cpp-course](https://github.com/NEKAfk/cpp-cource)
   - [cpp-adv-course](https://github.com/NEKAfk/cpp-adv-course)
   - [prog-intro(Java)](https://github.com/NEKAfk/prog-intro)
