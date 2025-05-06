@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚙️ Technical Skills
   | Programming languages | System            | Version Control |
   |-----------------------|-------------------|----------------|
-  | C++ / Java            | Linux/Bash/Docker | Git/GitHub     |
+  | C++ / Java            | Linux/Bash | Git/GitHub     |
 
 - 🌱 During my studies I completed courses:
   - Discrete Math 3/4
@@ -34,10 +34,12 @@ Here are some ideas to get you started:
   - Calculus 3/4
   - Linear Algebra 2/2
   - Logic 1/1
+  - Data Storage(in progress)
 - Some of my repos: (can be private)
   - [cpp-course](https://github.com/NEKAfk/cpp-cource)
   - [cpp-adv-course](https://github.com/NEKAfk/cpp-adv-course)
   - [prog-intro(Java)](https://github.com/NEKAfk/prog-intro)
   - [comp-arch](https://github.com/NEKAfk/comp-ach)
   - [paradigms](https://github.com/NEKAfk/paradigms)
+  - [studentraid](https://github.com/NEKAfk/studentraid)
 - 📫 How to reach me: [Email](408627@niuitmo.ru), [Telegram](https://t.me/NEKAfk)
